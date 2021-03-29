@@ -46,7 +46,7 @@ pycosat==0.6.3
 pycparser==2.18
 pycrypto==2.6.1
 pycryptodome==3.6.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
 PySocks==1.6.8
